@@ -1,0 +1,12 @@
+Arduino-esp8266:
+	https://dratek.cz/arduino/911-internet-veci-je-tady-tcp-ip-wifi-esp8266-esp-01.html
+H-Bridge-L298N:
+	https://dratek.cz/arduino/877-arduino-h-mustek-pro-krokovy-motor-l298n-dual-h-most-dc.html?hp&mena=1
+Motor-DC:
+	https://dratek.cz/arduino/121021-motor-6v-dc-620rpm-s-prevodovkou-silny-tocivy-moment-25mm.html
+ServoMotor: 
+	https://dratek.cz/arduino/897-eses-servo-motor-9g.html
+Baterry:
+	12V
+Step-Down:
+	12V -> 5V Arduino
