@@ -3,10 +3,10 @@ Arduino-esp8266:
 H-Bridge-L298N:
 	https://dratek.cz/arduino/877-arduino-h-mustek-pro-krokovy-motor-l298n-dual-h-most-dc.html?hp&mena=1
 Motor-DC:
-	https://dratek.cz/arduino/121021-motor-6v-dc-620rpm-s-prevodovkou-silny-tocivy-moment-25mm.html
+	https://dratek.cz/arduino/123004-stejnosmerny-motor-s-prevodovkou-dc-12v-300-rpm-n20-2.html
 ServoMotor: 
 	https://dratek.cz/arduino/897-eses-servo-motor-9g.html
 Baterry:
 	12V
 Step-Down:
-	12V -> 5V Arduino
+	https://dratek.cz/arduino/1303-stepdown-nastavitelny-menic-s-lm2596-dc-dc.html
