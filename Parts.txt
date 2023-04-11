@@ -1,12 +1,18 @@
 Arduino-esp8266:
 	https://dratek.cz/arduino/911-internet-veci-je-tady-tcp-ip-wifi-esp8266-esp-01.html
+49 x 24.5 x 13 mm
 H-Bridge-L298N:
 	https://dratek.cz/arduino/877-arduino-h-mustek-pro-krokovy-motor-l298n-dual-h-most-dc.html?hp&mena=1
+43 x 43 x 26 mm
 Motor-DC:
 	https://dratek.cz/arduino/123004-stejnosmerny-motor-s-prevodovkou-dc-12v-300-rpm-n20-2.html
+Rozměry motoru: 12 x 26 mm
+Rozměry hřídele: 3 x 10 mm
 ServoMotor: 
 	https://dratek.cz/arduino/897-eses-servo-motor-9g.html
+22 x 11,5 x 27 mm
 Baterry:
 	12V
 Step-Down:
 	https://dratek.cz/arduino/1303-stepdown-nastavitelny-menic-s-lm2596-dc-dc.html
+43 x 21 x 14 mm 
