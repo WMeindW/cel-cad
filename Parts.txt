@@ -9,8 +9,8 @@ Motor-DC:
 Rozměry motoru: 12 x 26 mm
 Rozměry hřídele: 3 x 10 mm
 ServoMotor: 
-	https://dratek.cz/arduino/897-eses-servo-motor-9g.html
-22 x 11,5 x 27 mm
+	https://dratek.cz/arduino/1661-mini-servo-motor-9g-2.5kg-pro-rc-auta-lode-a-letadla-sg92r.html
+23 x 12,2 x 27 mm
 Baterry:
 	12V
 Step-Down:
